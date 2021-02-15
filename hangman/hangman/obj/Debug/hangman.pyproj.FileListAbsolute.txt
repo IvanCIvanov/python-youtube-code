@@ -1,0 +1,1 @@
+C:\Users\Ivan\source\repos\IvanCIvanov\python-youtube-code\hangman\hangman\obj\Debug\hangman.pyproj.CoreCompileInputs.cache
